@@ -1,0 +1,9 @@
+@media (max-width: 600px){
+    *{
+        overflow: auto;
+    }
+    
+    th.col{
+        min-width: 1000px;
+    }
+}
