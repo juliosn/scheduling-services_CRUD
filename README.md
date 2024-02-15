@@ -1,3 +1,51 @@
+# Agendamento de Serviços
+
+![GitHub repo size](https://img.shields.io/github/repo-size/juliosn/scheduling-services_CRUD?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/juliosn/scheduling-services_CRUD?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/juliosn/scheduling-services_CRUD?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/juliosn/scheduling-services_CRUD?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/juliosn/scheduling-services_CRUD?style=for-the-badge)
+
+<h2>Interface de Cadastro/Edição</h2>
+<img src="https://github.com/juliosn/scheduling-services_CRUD/assets/99426563/d036aa81-1819-4ff2-82ef-415ac7055f44">
+
+<h2>Interface de Consulta</h2>
+<img src="https://github.com/juliosn/scheduling-services_CRUD/assets/99426563/1243943d-3112-4176-8335-b65cb8ab10b6">
+
+
+> Projeto acadêmico realizdo em 2023 que consiste na criação de um site com CRUD (Create, Read, Update and Delete) utilizando o framework Laravel e seu padrão de desenvolvimento.
+
+
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [] Melhorar a qualidade do código, deixando-o mais limpo
+- [] Aprimorar interface
+- [] Otimizar desempenho
+
+
+## 💻 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+- Utilizar a versão 9 do laravel
+- Ter instalado no minímo o PHP 8.0 (ou acima disso)
+
+## ☕ Usando <nome_do_projeto>
+
+Para usar <nome_do_projeto>, siga estas etapas:
+
+- Realizar o download do projeto - https://github.com/juliosn/scheduling-services_CRUD
+- Colocar o projeto no diretório 'xampp/htdocs' - Exemplo: C:/xampp/htdocs/
+- Acessar o diretório do projeto com o prompt de comando
+- Utilizar o comando - composer install
+- Renomear o arquivo do projeto '.env.example' para '.env'
+- Utilizar o comando - php artisan migrate - desde que o banco já esteja criado no phpmyadmin
+- Utilizar o comando - npm install
+- Utilizar o comando - npm run dev 
+- Em outro terminal - rodar o comando php artisan serve
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
