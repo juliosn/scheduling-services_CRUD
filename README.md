@@ -32,9 +32,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Utilizar a versão 9 do laravel
 - Ter instalado no minímo o PHP 8.0 (ou acima disso)
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando o scheduling-services_CRUD
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar scheduling-services_CRUD, siga estas etapas:
 
 - Realizar o download do projeto - https://github.com/juliosn/scheduling-services_CRUD
 - Colocar o projeto no diretório 'xampp/htdocs' - Exemplo: C:/xampp/htdocs/
