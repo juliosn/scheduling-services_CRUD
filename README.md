@@ -20,9 +20,9 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [] Melhorar a qualidade do código, deixando-o mais limpo
-- [] Aprimorar interface
-- [] Otimizar desempenho
+- [ ] Melhorar a qualidade do código, deixando-o mais limpo
+- [ ] Aprimorar interface
+- [ ] Otimizar desempenho
 
 
 ## 💻 Pré-requisitos
