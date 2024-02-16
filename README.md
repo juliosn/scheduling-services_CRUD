@@ -9,7 +9,7 @@
 <h2>Registration/Editing's Interface</h2>
 <img src="https://github.com/juliosn/scheduling-services_CRUD/assets/99426563/d036aa81-1819-4ff2-82ef-415ac7055f44">
 
-<h2>Query's Interface</h2>
+<h2>List's Interface</h2>
 <img src="https://github.com/juliosn/scheduling-services_CRUD/assets/99426563/1243943d-3112-4176-8335-b65cb8ab10b6">
 
 > Academic project carried out in 2023 that consists of the creation of a website with CRUD (Create, Read, Update and Delete) using the Laravel framework and its development pattern.
@@ -41,7 +41,7 @@ To use scheduling-services_CRUD, follow these steps:
 - Use the command - php artisan migrate - as long as the database is already created in phpmyadmin
 - Use the - npm install command
 - Use the - npm run dev command 
-- In another terminal - use the php artisan command
+- In another terminal - use the command php artisan serve
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
