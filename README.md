@@ -6,45 +6,42 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/juliosn/scheduling-services_CRUD?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/juliosn/scheduling-services_CRUD?style=for-the-badge)
 
-<h2>Interface de Cadastro/Edição</h2>
+<h2>Registration/Editing's Interface</h2>
 <img src="https://github.com/juliosn/scheduling-services_CRUD/assets/99426563/d036aa81-1819-4ff2-82ef-415ac7055f44">
 
-<h2>Interface de Consulta</h2>
+<h2>Query's Interface</h2>
 <img src="https://github.com/juliosn/scheduling-services_CRUD/assets/99426563/1243943d-3112-4176-8335-b65cb8ab10b6">
 
-
-> Projeto acadêmico realizdo em 2023 que consiste na criação de um site com CRUD (Create, Read, Update and Delete) utilizando o framework Laravel e seu padrão de desenvolvimento.
-
-
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [ ] Melhorar a qualidade do código, deixando-o mais limpo
-- [ ] Aprimorar interface
-- [ ] Otimizar desempenho
+> Academic project carried out in 2023 that consists of the creation of a website with CRUD (Create, Read, Update and Delete) using the Laravel framework and its development pattern.
 
 
-## 💻 Pré-requisitos
+### Adjustments and Improvements
+The project is still under development and the next updates will focus on the following tasks:
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+- [ ] Improve the quality of the code by making it cleaner
+- [ ] Enhance interface
+- [ ] Optimize performance
 
-- Utilizar a versão 9 do laravel
-- Ter instalado no minímo o PHP 8.0 (ou acima disso)
+## 💻 Prerequisites
 
-## ☕ Usando o scheduling-services_CRUD
+Before you begin, make sure you've met the following requirements:
 
-Para usar scheduling-services_CRUD, siga estas etapas:
+- Using version 9 of laravel
+- Have at least PHP 8.0 (or higher) installed
 
-- Realizar o download do projeto - https://github.com/juliosn/scheduling-services_CRUD
-- Colocar o projeto no diretório 'xampp/htdocs' - Exemplo: C:/xampp/htdocs/
-- Acessar o diretório do projeto com o prompt de comando
-- Utilizar o comando - composer install
-- Renomear o arquivo do projeto '.env.example' para '.env'
-- Utilizar o comando - php artisan migrate - desde que o banco já esteja criado no phpmyadmin
-- Utilizar o comando - npm install
-- Utilizar o comando - npm run dev 
-- Em outro terminal - rodar o comando php artisan serve
+## ☕ Using scheduling-services_CRUD
+
+To use scheduling-services_CRUD, follow these steps:
+
+- Download the project - https://github.com/juliosn/scheduling-services_CRUD
+- Place the project in the directory 'xampp/htdocs' - Example: C:/xampp/htdocs/
+- Access the project directory with the command prompt
+- Use the - composer install command
+- Rename project file '.env.example' to '.env'
+- Use the command - php artisan migrate - as long as the database is already created in phpmyadmin
+- Use the - npm install command
+- Use the - npm run dev command 
+- In another terminal - use the php artisan command
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
